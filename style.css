@@ -1,0 +1,55 @@
+#titleDiv {
+    background-color: green;
+}
+
+h1 {
+    color: white;
+}
+main{
+
+}
+
+#ButtonInput{
+    margin-bottom: 5px;
+}
+
+#tell{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#leftDiv{
+    background-color: #571845;
+    float: left;
+    padding: 2px;
+    width:49%;
+
+}
+
+#rightDiv{
+    background-color: #900c3e;
+    float: left;
+    width: 48%;
+    padding: 5px;
+    visibility: visible;
+
+}
+#rightDiv1{
+    background-color: #F46C3F;
+    float: left;
+    width: 48%;
+    padding: 5px;
+    position: absolute;
+    right: 17px;
+    visibility: hidden;
+}
+h3{}
+
+input{
+    margin-bottom: 2px;
+}
+
+
+#responseDiv{
+    background-color: #17B5B4;
+}
